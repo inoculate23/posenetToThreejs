@@ -16,7 +16,7 @@
  */
 import * as posenet from 'https://cdn.jsdelivr.net/npm/@tensorflow-models/posenet';
 import * as tf from 'https://cdn.jsdelivr.net/npm/@tensorflow/tfjs';
-import dat from 'dat.gui';
+import dat from 'https://cdn.jsdelivr.net/npm/dat.gui';
 
 import {isMobile, toggleLoadingUI, tryResNetButtonName, tryResNetButtonText, updateTryResNetButtonDatGuiCss} from './demo_util';
 // clang-format off
