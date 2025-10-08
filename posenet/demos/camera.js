@@ -15,9 +15,9 @@
  * =============================================================================
  */
 import * as posenet from 'https://cdn.jsdelivr.net/npm/@tensorflow-models/posenet';
-import dat from 'dat.gui';
-import Stats from 'stats.js';
-import io from 'socket.io-client';
+import dat from 'https://cdn.jsdelivr.net/npm/dat.gui';
+import Stats from 'https://cdn.jsdelivr.net/npm/stats.js';
+import io from 'https://cdn.jsdelivr.net/npm/socket.io-client';
 
 import {drawBoundingBox, drawKeypoints, drawSkeleton, isMobile, toggleLoadingUI, tryResNetButtonName, tryResNetButtonText, updateTryResNetButtonDatGuiCss} from './demo_util';
 
