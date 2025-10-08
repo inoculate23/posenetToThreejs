@@ -14,7 +14,7 @@
  * limitations under the License.
  * =============================================================================
  */
-import * as posenet from '@tensorflow-models/posenet';
+import * as posenet from 'https://cdn.jsdelivr.net/npm/@tensorflow-models/posenet';
 import dat from 'dat.gui';
 import Stats from 'stats.js';
 import io from 'socket.io-client';
