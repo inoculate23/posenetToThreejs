@@ -25,7 +25,7 @@ import {
   drawKeypoints,
   drawSkeleton,
   renderImageToCanvas,
-} from './demo_util';
+} from 'demo_util';
 
 // clang-format on
 
